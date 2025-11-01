@@ -10,6 +10,6 @@
 <img src="assets/home screen dark.png" width="300" height="500">
 <img src="assets/azkar screen light.png" width="300" height="500">
 <img src="assets/azkar screen dark.png" width="300" height="500">
-<img src="assets/about app light.png" width="300" height="500">
-<img src="assets/about app dark.png" width="300" height="500">
+<img src="assets/about screen light.png" width="300" height="500">
+<img src="assets/about screen dark.png" width="300" height="500">
  
