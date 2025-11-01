@@ -4,8 +4,10 @@
 ## تطبيق أذكارى يقدم لك مجموعة من الأذكار الإسلامية المفيدة
 
 
-![onboarding](assets/onboarding.png)
-![light home](assets/home screen light.png)
-![dark home](assets/home screen dark.png)
-![light azkar](assets/azkar screen light.png)
-![dark azkar](assets/azkar screen dark.png)
+ 
+<img src="assets/onboarding.png" width="300" height="500">
+<img src="assets/home screen light.png" width="300" height="500">
+<img src="assets/assets/home screen dark.png" width="300" height="500">
+<img src="assets/assets/azkar screen light.png" width="300" height="500">
+<img src="assets/assets/azkar screen dark.png" width="300" height="500">
+ 
